@@ -1,0 +1,23 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^6.0.0",
+    "jasmine": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mankanigit/Protractor_Framework.git"
+  },
+  "author": "roshan_mankani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mankanigit/Protractor_Framework/issues"
+  },
+  "homepage": "https://github.com/mankanigit/Protractor_Framework#readme"
+}

@@ -1,0 +1,25 @@
+Link : https://www.youtube.com/watch?v=z-DBzW2xlB0
+
+
+Protractor Configuration:
+1. Install NPM[nodejs] from google or search "nodejs" on google.
+2. On command Prompt install Protractor
+   commond : npm install -g protractor
+3. Install JDK if it is not in your machine.
+4. On command promt install webdriver manager.
+   commond : webdriver-manager update
+5. Start the webdriver manager from commond promt
+   commond : webdriver-manager start.
+6. The port address are giver when start the webdriver manager port:444
+   check on browser : http://localhost:4444
+
+
+Protractor Scripting :
+1. Download and IDE (Visual Studio Code) - Open Source
+2. Create the Folder on any drive i.e Protractor_Framework
+3. On IDE open folder i.e Protractor_Framework
+4. Open new commond promt and create the packages on that folder i.e Protractor_Framework
+5. In commond promt run the command : npm init and follow the instruction
+6. The package file is visible.
+7. Add the library so in menu select view the terminal after that run the "nmp install" all lib is installed succsffuly.
+
